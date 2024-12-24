@@ -4,12 +4,6 @@ const visible = ref(false)
 <template>
   <h1 class="text-3xl font-bold underline">Hello world!</h1>
 
-  FEATURES API THEMING PASS THROUGH Button Button is an extension to standard
-  input element with icons and theming. Import import Button from
-  'primevue/button'; Basic Text to display on a button is defined with the label
-  property.
-
-  <Button label="Submit"> 我是按鈕 </Button>
   <Button label="Show" @click="visible = true" />
   <Dialog
     v-model:visible="visible"
