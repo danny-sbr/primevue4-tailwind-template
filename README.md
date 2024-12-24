@@ -1,4 +1,4 @@
-# Vue 3 + Vite 專案模板
+# Vue 3 + Vite + PrimeVue 4 + TailwindCSS  專案模板
 
 這是一個使用 Vue 3 和 Vite 建立的專案模板，整合了多項現代前端開發工具。
 
