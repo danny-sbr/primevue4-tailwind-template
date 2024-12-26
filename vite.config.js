@@ -10,6 +10,9 @@ import { PrimeVueResolver } from '@primevue/auto-import-resolver'
 
 // https://vite.dev/config/
 export default defineConfig({
+  server: {
+    port: 4129,
+  },
   plugins: [
     vue(),
     vueDevTools(),
