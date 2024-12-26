@@ -14,6 +14,9 @@ importers:
       pinia:
         specifier: ^2.2.6
         version: 2.3.0(typescript@5.7.2)(vue@3.5.13(typescript@5.7.2))
+      primelocale:
+        specifier: ^1.2.2
+        version: 1.2.2
       primevue:
         specifier: ^4.2.5
         version: 4.2.5(vue@3.5.13(typescript@5.7.2))
@@ -2195,6 +2198,10 @@ packages:
   pretty-ms@9.2.0:
     resolution: {integrity: sha512-4yf0QO/sllf/1zbZWYnvWw3NxCQwLXKzIj0G849LSufP15BXKM0rbD2Z3wVnkMfjdn/CB0Dpp444gYAACdsplg==}
     engines: {node: '>=18'}
+
+  primelocale@1.2.2:
+    resolution: {integrity: sha512-/bDxVElfLWrJs1og8sFCbZlo+iQuOcWO87DLpLlDf0F7XeDGabT02F9Awt2AVqKfVPvhVEkmxfqZ6J6SaqLxuA==}
+    engines: {node: '>=12.0.0', npm: '>=6.0.0'}
 
   primevue@4.2.5:
     resolution: {integrity: sha512-7UMOIJvdFz4jQyhC76yhNdSlHtXvVpmE2JSo2ndUTBWjWJOkYyT562rQ4ayO+bMdJLtzBGqgY64I9ZfEvNd7vQ==}
@@ -4772,6 +4779,8 @@ snapshots:
   pretty-ms@9.2.0:
     dependencies:
       parse-ms: 4.0.0
+
+  primelocale@1.2.2: {}
 
   primevue@4.2.5(vue@3.5.13(typescript@5.7.2)):
     dependencies:
