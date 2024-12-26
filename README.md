@@ -1,6 +1,6 @@
-# Vue 3 + Vite + PrimeVue 4 + TailwindCSS  專案模板
+# Vue 3 + Vite + PrimeVue 4 + TailwindCSS 專案模板
 
-這是一個使用 Vue 3 和 Vite 建立的專案模板，整合了多項現代前端開發工具。
+這是一個基於 Vue 3 生態系統打造的現代化前端開發模板。整合了 Vite 建構工具帶來的快速開發體驗，PrimeVue 4 提供的豐富 UI 元件，以及 TailwindCSS 樣式設計系統。此模板已預先配置好開發所需的必要工具，讓您能夠專注在應用程式的開發上，無需花費時間在環境設定。
 
 ## Tech Stack
 
@@ -15,7 +15,6 @@
 - 套件自動引入工具 (unplugin-auto-import)
 - Vitest (單元測試框架)
 - PrimeVue (PrimeVue UI 套件)
-
 
 ## 建議的開發環境設定
 
