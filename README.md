@@ -15,6 +15,7 @@
 - 套件自動引入工具 (unplugin-auto-import)
 - Vitest (單元測試框架)
 - PrimeVue (PrimeVue UI 套件)
+- PrimeLocale (PrimeVue 多語系套件 - 社區維護)
 
 ## 建議的開發環境設定
 
@@ -85,3 +86,4 @@ pnpm test:unit
 - [ESLint 文件](https://eslint.org/)
 - [Prettier 文件](https://prettier.io/)
 - [PrimeVue 文件](https://primevue.org/)
+- [PrimeLocale 文件](https://github.com/primefaces/primelocale)
