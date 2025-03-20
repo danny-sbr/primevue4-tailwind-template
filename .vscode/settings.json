@@ -12,5 +12,15 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "css.customData": [
     ".vscode/tailwind.json"
+  ],
+  "cSpell.words": [
+    "unplugin",
+    "confirmationservice",
+    "dialogservice",
+    "showGridlines",
+    "primeicons",
+    "primelocale",
+    "primevue",
+    "VITE"
   ]
 }
