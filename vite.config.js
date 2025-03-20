@@ -13,6 +13,19 @@ export default defineConfig({
   server: {
     port: 4129,
   },
+  css: {
+    /** @description CSS 相關配置選項，用於設定 CSS 預處理器的行為 */
+    preprocessorOptions: {
+      scss: {
+        /**
+         * @description SCSS 預處理器的模式設定，在 Vite 5.4 版本中預設為 legacy 模式
+         * 為避免出現警告訊息，建議將其設定為 modern-compiler 模式以優化編譯效能
+         * @see {@link https://cn.vite.dev/config/shared-options#css-preprocessoroptions}
+         */
+        api: 'modern-compiler',
+      },
+    },
+  },
   plugins: [
     vue(),
     vueDevTools(),
