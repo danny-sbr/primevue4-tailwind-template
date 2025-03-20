@@ -27,8 +27,8 @@
 - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss#review-details)
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 
-- Node.js 20+ 版本
-- pnpm 9+ 版本
+- Node.js v18.18.2 版本佳
+- pnpm@9.15.9 版本佳
 
 ## 專案設定
 
