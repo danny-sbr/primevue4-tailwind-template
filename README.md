@@ -11,6 +11,7 @@
 - TailwindCSS
 - SASS
 - ESLint + Prettier (程式碼品質工具)
+- @ianvs/prettier-plugin-sort-imports (Prettier 排序插件)
 - Stylelint
 - 套件自動引入工具 (unplugin-auto-import)
 - Vitest (單元測試框架)
@@ -26,6 +27,8 @@
 - [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
 - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss#review-details)
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+- [prettier-plugin-sort-imports
+](https://github.com/IanVS/prettier-plugin-sort-imports)
 
 - Node.js v18.18.2 版本佳
 - pnpm@9.15.9 版本佳
