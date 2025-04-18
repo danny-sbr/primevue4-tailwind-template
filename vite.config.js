@@ -35,6 +35,7 @@ export default defineConfig({
       dts: './src/auto-imports.d.ts', // 檔案位置
       eslintrc: {
         enabled: true, // 改為 true 會自動生成 unplugin-auto-import 的規則設定
+        filepath: './.eslintrc-auto-import.mjs', // 設定自動生成的 ESLint 規則檔案路徑，預設為 `./.eslintrc-auto-import.json`
       },
     }),
     Components({
